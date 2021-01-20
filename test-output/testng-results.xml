@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-18T19:43:58 EST" name="Default suite" finished-at="2021-01-18T19:44:18 EST" duration-ms="19300">
+    <groups>
+    </groups>
+    <test started-at="2021-01-18T19:43:58 EST" name="Default test" finished-at="2021-01-18T19:44:18 EST" duration-ms="19300">
+      <class name="com.soft.pages.FirstPageTest">
+        <test-method signature="searchGoolgeTest()[pri:0, instance:com.soft.pages.FirstPageTest@41fed14f]" started-at="2021-01-18T19:43:58 EST" name="searchGoolgeTest" finished-at="2021-01-18T19:44:18 EST" duration-ms="19219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoolgeTest -->
+      </class> <!-- com.soft.pages.FirstPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
